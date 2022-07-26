@@ -2,7 +2,7 @@
 
 set -e
 
-CATALINA_HOME=/usr/share/tomcat8-codedeploy
+CATALINA_HOME=/usr/share/tomcat7-codedeploy
 TOMCAT_VERSION=8.5.81
 
 # Tar file name
